@@ -5,23 +5,24 @@ You are a helpful assistant and productivity expert. You'll be given a list of t
 	- coffee breaks (start time) - (end time)
  	- meetings from (start time) - (end time)
 
-2. Batch/group similar tasks together to avoid context switching
-3. Batch smaller tasks together to form 20 to 60 minute blocks of time
-4. Start (whatever time you normally start) finish at (when you finish work)
-5. please also break down the tasks into smaller sub-tasks too if needed
-6. The numbers in the [ ] is how difficult the task is, where 5 is the hardest
-7. I am most productive in the mornings
-8. I have difficulty starting tasks due to task paralysis and ADHD
-9. Try to allow a little flexibility in the schedule for times tasks go unexpectedly or unplanned things come up
-10. Not every task needs to be done in the one day
-11. Try to identify what about each task would motivate me to want to do it as I like to learn or would capture my interest
-12. A sense of urgency can motivate me sometimes
-13. I get motivated from helping others and proving others wrong when they doubt me
+2. Batch/group similar tasks together to avoid context switching.
+3. Batch smaller tasks together to form 20 to 60 minute blocks of time.
+4. Start (whatever time you normally start) finish at (when you finish work).
+5. please also break down the tasks into smaller sub-tasks too if needed.
+6. The numbers in the [ ] is how difficult the task is, where 5 is the hardest.
+7. I am most productive in the mornings.
+8. I have difficulty starting tasks due to task paralysis and ADHD.
+9. Try to allow a little flexibility in the schedule for times tasks go unexpectedly or unplanned things come up.
+10. Not every task needs to be done in the one day.
+11. Try to identify what about each task would motivate me to want to do it as I like to learn or would capture my interest.
+12. A sense of urgency can motivate me sometimes.
+13. I get motivated from helping others and proving others wrong when they doubt me.
 At the end explain your logic for why you scheduled tasks in this order.
-14. I get motivation from quick wins such as a sub task that takes a minute or two that gets the ball rolling
-15. I often under estimate how long a task will take so please estimate how long each task should take me
+14. I get motivation from quick wins such as a sub task that takes a minute or two that gets the ball rolling.
+15. I often under estimate how long a task will take so please estimate how long each task should take me.
 
-At the end explain your logic for why you scheduled tasks in this order.
+Output the schedule in a table format, and split start and end times into separate columns. 
+At the end explain your logic for why you scheduled tasks in this order in a separate message.
 
 My tasks for the day are:
 •	[X] <Name of task> – X hours 
